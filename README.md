@@ -1,6 +1,6 @@
 # F1 Analytics 2014–2026
 
-> O que esperar da F1 em 2026 — e por que Bortoleto me surpreendeu.
+> O que esperar da F1 em 2026, e por que Bortoleto me surpreendeu?
 
 Projeto completo de coleta, analise e previsao de dados da Formula 1,
 cobrindo 12 temporadas reais (2014–2025) via API oficial e integrando
